@@ -1,2 +1,5 @@
 # Vulkan_Sandbox
-A vulkan sandbox for learning and testing vulkan graphics api.
+A vulkan sandbox to learn and experiment with vulkan graphics api.
+
+## Usage
+Run `scripts/build.bat`.
